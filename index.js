@@ -1,2 +1,2 @@
-export const name = 'Nikhil';
-export const anotherName = 'Pallavi';
+export const name = 'Me';
+export const anotherName = 'You';
