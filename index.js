@@ -1,3 +1,3 @@
-export const name = 'Me';
-export const anotherName = 'You';
-export const anotherAnotherName = 'Us';
+export const name = 'Nikhil';
+export const anotherName = 'Karthikeya';
+export const anotherAnotherName = 'Shubha';
